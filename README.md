@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kanishka Dhodduraj</h1>
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/01da270d-c220-4c2f-9366-17c5d562e3d7" /><h1 align="center">Hi 👋, I'm Kanishka Dhodduraj</h1>
 <h3 align="center">Front-End Developer | CSE '28 | Building Responsive Web Projects</h3>
 
 <p align="center">
   <a href="https://kanishkadhodduraj.github.io/PORTFOLIO/" target="_blank">🌐 Portfolio</a> •
   <a href="https://github.com/KanishkaDhodduraj" target="_blank">💻 GitHub</a> •
   <a href="mailto:kanishkadhodduraj2007@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/kanishka-dhodduraj-976b68338"> LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/kanishka-dhodduraj-976b68338">🌐 LinkedIn Profile</a>
 </p>
 
 ---
