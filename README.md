@@ -1,4 +1,5 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/01da270d-c220-4c2f-9366-17c5d562e3d7" /><h1 align="center">Hi 👋, I'm Kanishka Dhodduraj</h1>
+<h4 align="center">WELCOME</h4>
+<h1 align="center"> I'm Kanishka Dhodduraj</h1>
 <h3 align="center">Front-End Developer | CSE '28 | Building Responsive Web Projects</h3>
 
 <p align="center">
