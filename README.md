@@ -1,6 +1,6 @@
 <h4 align="center">WELCOME</h4>
 <h1 align="center"> I'm Kanishka Dhodduraj</h1>
-<h3 align="center">Front-End Developer | CSE '28 | Building Responsive Web Projects</h3>
+<h3 align="center">Future Web developer | CSE '28 | Building Responsive Web Projects</h3>
 
 <p align="center">
   <a href="https://kanishkadhodduraj.github.io/PORTFOLIO/" target="_blank">🌐 Portfolio</a> •
@@ -15,7 +15,7 @@
 - 🎓 B.E. Computer Science Engineering (CSE '28)  
 - 🏫 Sri Ramakrishna Engineering College, Coimbatore  
 - 💻 Front End Developer passionate about modern, responsive UI  
-- 🌱 Currently focusing on **BackEnd Development & JavaScript projects**  
+- 🌱 Currently focusing on Full stack development 
 - 🤝 Open to internships, hackathons, and collaborations  
 
 ---
@@ -28,7 +28,6 @@
 - JavaScript  
 - C / C++  
 - Java  
-- SQL  
 
 ### ⚙️ Tools & Practices
 - Git & GitHub  
@@ -39,31 +38,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 Smart Attendance Dashboard
-Real-time attendance tracking system with analytics and reports.  
-**Tech:** HTML, CSS, JavaScript  
-
-### 📚 Study Productivity Hub
-Task management with timers, productivity tracking, and analytics.  
-**Tech:** HTML, CSS, JavaScript  
-
-### 🛒 E-Commerce Frontend
-Modern shopping UI with cart and checkout flow.  
-**Tech:** HTML, CSS, JavaScript  
-
-### 🧮 Calculator App
-Clean UI calculator with accurate calculations.  
-**Tech:** HTML, CSS, JavaScript  
-
-### 📝 To-Do List App
-Task manager with filters and local storage.  
-**Tech:** HTML, CSS, JavaScript  
-
-👉 **More projects:** [View My Repositories](https://github.com/KanishkaDhodduraj?tab=repositories)
-
----
 
 ## 📈 GitHub Stats
 <p align="center">
