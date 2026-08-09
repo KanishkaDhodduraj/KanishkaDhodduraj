@@ -120,13 +120,17 @@ Topics I explore:
 
 <p align="center">
 
-<a href="https://kanishka-dev-space.lovable.app">
+<a href="https://code-palette-craft-92.lovable.app/">
 
 <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
 </a>
 
 </p>
+
+<p align="center"> <strong>Explore my skills • HIIKKY • Learning • Writing • Developer Profiles</strong> </p>
+
+🔗 Portfolio: https://code-palette-craft-92.lovable.app/
 
 <p align="center">
 
