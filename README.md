@@ -130,8 +130,6 @@ Topics I explore:
 
 <p align="center"> <strong>Explore my skills • HIIKKY • Learning • Writing • Developer Profiles</strong> </p>
 
-🔗 Portfolio: https://code-palette-craft-92.lovable.app/
-
 <p align="center">
 
 <strong>Explore my journey • Skills • HIIKKY • Writing • Development</strong>
