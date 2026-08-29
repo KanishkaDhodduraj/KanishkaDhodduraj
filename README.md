@@ -120,7 +120,7 @@ Topics I explore:
 
 <p align="center">
 
-<a href="https://code-palette-craft-92.lovable.app/">
+<a href="https://kanishkadhoddurajportfolio.lovable.app">
 
 <img src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
