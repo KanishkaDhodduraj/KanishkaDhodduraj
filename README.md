@@ -4,7 +4,7 @@
 
 I'm a **Computer Science Engineering student** passionate about software development and learning by building practical applications.
 
-Currently focusing on **Java, Spring Boot, backend development, databases, web technologies, DSA, and cloud fundamentals**.
+Currently focusing on **Java backend development, databases, web technologies**.
 
 > **Learn → Build → Experiment → Share → Improve**
 
