@@ -70,12 +70,10 @@ Currently learning:
 ## 📚 Currently Learning
 
 * ☕ Java
-* 🌱 Spring Boot
 * 🧩 Data Structures & Algorithms
 * 🌐 Web Development
 * ⚙️ Backend Development
 * 🗄️ Databases
-* ☁️ Cloud Fundamentals
 * 🔧 Git & GitHub
 
 ---
